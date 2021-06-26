@@ -1,5 +1,54 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
+.q1textbox {
+  padding: 10px;
+  background-color: #e6f2ff;
+  width: 90px;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+.q2block {
+  display: table-cell;
+  vertical-align: middle;
+}
+.q2textbox {
+  padding: 10px;
+  background-color: #fff;
+  display: inline-block;
+}
+.glay {
+  text-align: center;
+  display: table;
+}
+.flexbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flexitem {
+  padding: 10px;
+  background-color: #fff;
+}
+.outer {
+  position: relative;
+}
+.textbox {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+.textbox_trans {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+
+}
 
 /* 回答はここに書いてね */
