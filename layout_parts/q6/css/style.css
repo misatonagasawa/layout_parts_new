@@ -2,13 +2,22 @@
 
 /* 回答はここに書いてね */
 .q1textbox {
+  text-align: center;
+}
+.text_align {
+  display: inline-block;
+  width: 90px;
+  padding: 10px;
+  background-color: #e6f2ff;
+}
+.q1__q2textbox {
   padding: 10px;
   background-color: #e6f2ff;
   width: 90px;
-  display: block;
-  margin: auto;
+  margin: 0 auto;
   text-align: center;
 }
+
 .q2block {
   display: table-cell;
   vertical-align: middle;

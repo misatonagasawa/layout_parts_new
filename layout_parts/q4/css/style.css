@@ -11,13 +11,9 @@
   width: 100%;
   margin-top:40px ;
 }
+
 .table-layout:first-child {
   margin-top: 0;
-}
-
-td {
-  padding: 20px;
-  text-align: center;
 }
 
 .orange {
@@ -41,6 +37,13 @@ td {
   background-color: #8fdcad;
   width: 500px;
 }
+
+.q4__cell {
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}
+
 
 
 

@@ -69,9 +69,8 @@
 .nine {
   background-color: #2b69a3;
   position: fixed;
-  top: 20px;
-  left: 420px;
-  margin: 10px;
+  top: 10px;
+  left: 10px;
 }
 .one::after {
   content:"";
