@@ -7,7 +7,7 @@
   text-align: center;
 }
 
-.q3__th {
+.layout_table1 th {
   background-color: #2244aa;
   color: #fff;
   font-size: 18px;
@@ -17,23 +17,20 @@
   border: solid 1px #dedede;
 }
 
-.q3__td {
+.layout_table1 td {
   border: solid 1px #dedede;
   padding: 10px;
 }
 
-table tr:nth-child(2n) .q3__td {
+.layout_table1 tbody tr:nth-child(even) {
   font-size: 16px;
   line-height: 22px;
   background-color: #ecf1f2;
   border: solid 1px #dedede;
 }
 
-tr:last-child {
+.layout_table1 tbody tr:last-child {
   border-top: dashed 2px #000;
-}
-tr:first-child {
-  border-top: 0;
 }
 
 

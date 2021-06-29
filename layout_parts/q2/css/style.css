@@ -11,13 +11,14 @@
   background-color: #eff3f4;
   padding: 20px;
   width: 900px;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .image_left {
   float: left;
   margin: 0 20px 10px 0;
 }
+
 .image_right {
   float: right;
   margin: 0 0 10px 20px;

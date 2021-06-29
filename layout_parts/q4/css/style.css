@@ -9,7 +9,7 @@
 .table-layout {
   display: table;
   width: 100%;
-  margin-top:40px ;
+  margin-top:20px ;
 }
 
 .table-layout:first-child {
@@ -20,19 +20,24 @@
   background-color: #fdc8b8;
   width: 100px;
 }
+
 .pink {
   background-color: #e0abd9;
 }
+
 .blue {
   background-color: #b6d8ed;
   width: 100px;
 }
+
 .yellow {
   background-color: #e5d32e;
 }
+
 .red {
   background-color: #ec8f9a;
 }
+
 .green {
   background-color: #8fdcad;
   width: 500px;
